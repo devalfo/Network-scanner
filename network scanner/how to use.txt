@@ -1,0 +1,17 @@
+- upgrade your python to 3.8 
+- unzip the file 
+   in terminal:
+ install the scapy module
+       Debian/Ubuntu:
+
+       $ sudo apt-get install tcpdump
+       Fedora: 
+
+       $ yum install tcpdump
+       Or use pip:
+       $ pip install --pre scapy[basic]
+
+       $ cd "the file directory"
+       $ ls
+       $ sudo python3.8 "name of script"
+       $ enter your wifi ip and wait
